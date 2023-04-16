@@ -2,6 +2,7 @@ trigger:
   branches:
     include:
       - feature/*
+      - main
 
 pool:
   name: self-hosted
